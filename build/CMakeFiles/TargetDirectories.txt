@@ -1,0 +1,3 @@
+/home/mayhemuser/Downloads/hackathon-resources/lab2b/mayhem-cmake-example/build/CMakeFiles/rebuild_cache.dir
+/home/mayhemuser/Downloads/hackathon-resources/lab2b/mayhem-cmake-example/build/CMakeFiles/edit_cache.dir
+/home/mayhemuser/Downloads/hackathon-resources/lab2b/mayhem-cmake-example/build/CMakeFiles/fuzzme.dir
